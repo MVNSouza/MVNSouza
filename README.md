@@ -1,5 +1,5 @@
 # 👋 Bem vindo ao meu perfil!
-Olá, meu nome é Marcos, estudante do segundo semestre de Análise e Desenvolvimento de Sistemas no IFCE. Sou apaixonado por tecnologia, principalmente no desenvolvimento de sistemas e programação.
+Olá, meu nome é Marcos, estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas no IFCE. Sou apaixonado por tecnologia, principalmente no desenvolvimento de sistemas e programação.
 
 # 💻 Projetos
 * 📜 **geRPG:** Um projeto desenvolvido em Swift para gerenciamento em campanhas de RPG de Mesa. [📎Link](https://github.com/MVNSouza/geRPG_project)
