@@ -12,6 +12,6 @@ Olá, meu nome é Marcos, estudante do terceiro semestre de Análise e Desenvolv
 
 Aqui estão alguns links para meus estudos e projetos relacionados a diversas áreas da programação:
 
-- **Banco de Dados Não Relacional:** [https://github.com/MVNSouza/my-stuffs/tree/main/nosql](https://github.com/MVNSouza/my-stuffs/tree/main/nosql)  
-- **Programação Web I:** [https://github.com/MVNSouza/my-stuffs/tree/main/web1](https://github.com/MVNSouza/my-stuffs/tree/main/web1)  
-- **Programação Mobile:** [https://github.com/MVNSouza/Programacao-Mobile](https://github.com/MVNSouza/Programacao-Mobile)
+- **Banco de Dados Não Relacional:** [📎Link](https://github.com/MVNSouza/my-stuffs/tree/main/nosql)  
+- **Programação Web I:** [📎Link](https://github.com/MVNSouza/my-stuffs/tree/main/web1)  
+- **Programação Mobile:** [📎Link](https://github.com/MVNSouza/Programacao-Mobile)
