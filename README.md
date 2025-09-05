@@ -1,11 +1,17 @@
-# 👋 Bem vindo ao meu perfil!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MVNSouza&show_icons=true&theme=dracula&hide_border=true&locale=pt-BR&custom_title=MVNSouza">
 
-Olá, meu nome é Marcos, estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas no IFCE. Sou apaixonado por tecnologia, principalmente no desenvolvimento de sistemas e programação.
+### Olá! Meu nome é Marcos Vinicius!
+Sou estudante de Análise e Desenvolvimento de Sistemas 
+<div display="flex" padding="10px">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
 
-# 💻 Projetos
 
-* 📜 **geRPG:** Um projeto desenvolvido em Swift para gerenciamento em campanhas de RPG de Mesa. [📎Link](https://github.com/MVNSouza/geRPG_project)  
-* 📘 **SIS.Biblioteca:** Projeto de faculdade feito em Java, focado em sistemas de gerenciamento de biblioteca. [📎Link](https://github.com/MVNSouza/SIS.Biblioteca)  
+## 💻 Projetos
+
+[![geRPG](https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=geRPG_project&theme=dracula&hide_border=true)](https://github.com/MVNSouza/geRPG_project)  
+[![SisBiblioteca](https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SIS.Biblioteca&theme=dracula&hide_border=true)](https://github.com/MVNSouza/SIS.Biblioteca)  
 * 🛠️ **SISOV:** Sistema de Rastreabilidade de Ovinos em desenvolvimento. Repositório principal de projetos. [📎Link](https://github.com/MVNSouza/SISOV)
 
 # 📚 Sessão de Estudos
