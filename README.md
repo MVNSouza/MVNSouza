@@ -5,14 +5,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas
 <div display="flex" padding="10px">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  
 </div>
 
+<br>
+<br>
+<br>
 
+  
 ## 💻 Projetos
+<div display="flex" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=geRPG_project&theme=dracula&hide_border=true" (https://github.com/MVNSouza/geRPG_project)/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SIS.Biblioteca&theme=dracula&hide_border=true" (https://github.com/MVNSouza/SIS.Biblioteca)/>  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SISOV&theme=dracula&hide_border=true" (https://github.com/MVNSouza/SISOV)/>
 
-[![geRPG](https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=geRPG_project&theme=dracula&hide_border=true)](https://github.com/MVNSouza/geRPG_project)  
-[![SisBiblioteca](https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SIS.Biblioteca&theme=dracula&hide_border=true)](https://github.com/MVNSouza/SIS.Biblioteca)  
-* 🛠️ **SISOV:** Sistema de Rastreabilidade de Ovinos em desenvolvimento. Repositório principal de projetos. [📎Link](https://github.com/MVNSouza/SISOV)
+</div>
 
 # 📚 Sessão de Estudos
 
