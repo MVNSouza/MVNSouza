@@ -1,30 +1,39 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MVNSouza&show_icons=true&theme=dracula&hide_border=true&locale=pt-BR&custom_title=MVNSouza">
+<img align="right" src="https://kasroudra-stats-card.onrender.com/user?user=MVNSouza">
 
-### Olá! Meu nome é Marcos Vinicius!
-Sou estudante de Análise e Desenvolvimento de Sistemas 
-<div display="flex" padding="10px">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+Olá! <img src="https://komarev.com/ghpvc/?username=MVNSouza" alt="MVNSouza" />
+
+- Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Ceará (IFCE)
+  - Atualmente no 4º semestre
+- Desenvolvedor Full-stack & Mobile
+- Focado no momento na stack Front-end
+
+<br>
+<br>
+<br>
+
+
+
+
+## Tecnologias
+
+
+<div style="display: inline_block">
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+    <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Django" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg"/> 
+    <img align="center" alt="Flask" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/flask.svg"/> 
+    <img align="center" alt="Pandas" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/pandas.svg"/> 
+  </div>
   
-</div>
+---
 
-<br>
-<br>
-<br>
-
-  
-## 💻 Projetos
-<div display="flex" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=geRPG_project&theme=dracula&hide_border=true" (https://github.com/MVNSouza/geRPG_project)/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SIS.Biblioteca&theme=dracula&hide_border=true" (https://github.com/MVNSouza/SIS.Biblioteca)/>  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MVNSouza&repo=SISOV&theme=dracula&hide_border=true" (https://github.com/MVNSouza/SISOV)/>
-
-</div>
-
-# 📚 Sessão de Estudos
-
-Aqui estão alguns links para meus estudos e projetos relacionados a diversas áreas da programação:
-
-- **Banco de Dados Não Relacional:** [📎Link](https://github.com/MVNSouza/my-stuffs/tree/main/nosql)  
-- **Programação Web I:** [📎Link](https://github.com/MVNSouza/my-stuffs/tree/main/web1)  
-- **Programação Mobile:** [📎Link](https://github.com/MVNSouza/Programacao-Mobile)
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=MVNSouza&layout=compact&type=line&theme=default">
